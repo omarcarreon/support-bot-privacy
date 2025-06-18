@@ -1,6 +1,6 @@
 # Privacy Policy for Support Bot
 
-Last updated: [Current Date]
+Last updated: 06/17/2025
 
 ## Introduction
 
